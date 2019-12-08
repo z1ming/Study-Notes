@@ -1,2 +1,2 @@
 # Study-Notes
-My study note about machine learning
+My study notes about machine learning
